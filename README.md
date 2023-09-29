@@ -1,5 +1,5 @@
-## Classification Project
+## Regression Project
 
-### <add title of the project here>
+### Random Forest for Regression Project
 
 Deployment URL: http://dghorai.pythonanywhere.com/
